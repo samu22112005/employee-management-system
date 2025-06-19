@@ -33,9 +33,7 @@ spring.datasource.username=your_mysql_username
 spring.datasource.password=your_mysql_password
 spring.jpa.hibernate.ddl-auto=update
 📁 Folder Structure
-arduino
-Copy
-Edit
+
 src/
  └── main/
      ├── java/
@@ -49,26 +47,11 @@ src/
          ├── static/
          │   └── css/
          └── templates/
+
 🔐 Default Login (for demo)
 Update with your real user logic
-
 Username: samu
-
 Password: Samu2005@
 
-📷 Screenshots
-Add screenshots of index page, login page, and add employee form (optional)
-
-📝 License
-This project is licensed under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
 You should place this file in your root folder:  
-📁 `C:\Users\Shree\Downloads\employee-management-system\README.md`
-
-Want help adding [project screenshots](f), [badges](f), or a [license section](f)?
+📁 `C:\Users\Downloads\employee-management-system\README.md`

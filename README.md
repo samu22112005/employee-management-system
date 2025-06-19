@@ -28,13 +28,7 @@ A Spring Boot-based web application to manage employee records with role-based a
    ```bash
    git clone https://github.com/samu22112005/employee-management-system.git
    cd employee-management-system
-
-spring.datasource.url=jdbc:mysql://localhost:3306/your_db_name
-spring.datasource.username=your_mysql_username
-spring.datasource.password=your_mysql_password
-spring.jpa.hibernate.ddl-auto=update
-
-📁 Folder Structure
+## 📁 Folder Structure
 src/
  └── main/
      ├── java/
